@@ -6,7 +6,7 @@ Projects:
 
 • Prosthetic Running Leg
 
-• Nueral Excitation and Muscle Activation
+• Activation Dynamics
 
 • Robotic Tail System
 
